@@ -36,19 +36,23 @@
             color: #b1b1b1;
 
             .display__box {
-                padding: 1rem 1rem 0 0;
+                padding: 1rem 1rem 0 1rem;
+                width: 100%;
                 color: #6d6d6d;
-                font-size: 1.5rem;
+                font-size: 1.2rem;
                 font-weight: 500;
                 text-align: right;
-
+                
                 .onnum-enter {
                     color: #728AB7A6;
+                    margin-top: 0.3rem;
+                    border-top: 1px solid #FFFFFF;
+                    padding: 0.25rem 0;
                 }
 
                 .final-res {
                     color: #FFFFFF;
-                    font-size: 1.8rem;
+                    font-size: 1.5rem;
                 }
             }
         }
