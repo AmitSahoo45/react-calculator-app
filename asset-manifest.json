@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f09c2b7.css",
-    "main.js": "/static/js/main.a355ffdb.js",
-    "static/media/Rectangle-02.png": "/static/media/Rectangle-02.20e9acffc822295aa4e4.png",
-    "static/media/Ellipse-02.png": "/static/media/Ellipse-02.8c6334510b26461ff70d.png",
-    "static/media/Rectangle-03.png": "/static/media/Rectangle-03.8b2312f5f42c28bd1543.png",
-    "static/media/Ellipse-01.png": "/static/media/Ellipse-01.bb3c9a550781c0fac1d1.png",
-    "index.html": "/index.html",
-    "main.0f09c2b7.css.map": "/static/css/main.0f09c2b7.css.map",
-    "main.a355ffdb.js.map": "/static/js/main.a355ffdb.js.map"
+    "main.css": "/react-calculator-app/static/css/main.0f09c2b7.css",
+    "main.js": "/react-calculator-app/static/js/main.082ada00.js",
+    "static/media/Rectangle-02.png": "/react-calculator-app/static/media/Rectangle-02.20e9acffc822295aa4e4.png",
+    "static/media/Ellipse-02.png": "/react-calculator-app/static/media/Ellipse-02.8c6334510b26461ff70d.png",
+    "static/media/Rectangle-03.png": "/react-calculator-app/static/media/Rectangle-03.8b2312f5f42c28bd1543.png",
+    "static/media/Ellipse-01.png": "/react-calculator-app/static/media/Ellipse-01.bb3c9a550781c0fac1d1.png",
+    "index.html": "/react-calculator-app/index.html",
+    "main.0f09c2b7.css.map": "/react-calculator-app/static/css/main.0f09c2b7.css.map",
+    "main.082ada00.js.map": "/react-calculator-app/static/js/main.082ada00.js.map"
   },
   "entrypoints": [
     "static/css/main.0f09c2b7.css",
-    "static/js/main.a355ffdb.js"
+    "static/js/main.082ada00.js"
   ]
 }
